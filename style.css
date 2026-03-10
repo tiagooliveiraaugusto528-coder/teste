@@ -1,0 +1,16 @@
+.pong {
+    background-color: black;
+}
+
+.paddle {
+    width: 10px;
+    height: 100px;
+    background-color: white;
+}
+
+.ball {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+}
